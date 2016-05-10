@@ -1,3 +1,6 @@
 .input-field input[type=search] {
 	display: inline-block;
 }
+.tiny{
+	margin-left: 1%;
+}
